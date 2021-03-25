@@ -1,5 +1,8 @@
 _repo: Phil-May-Sketches-from-Punch_64738
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64738-h/images/cover.jpg
 creator:
   author:
     agent_name: May, Phil
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37403
     wikipedia: http://en.wikipedia.org/wiki/Phil_May_%28caricaturist%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64738#Phil-May-Sketches-from-Punch
 gutenberg_issued: '2021-03-07'
 gutenberg_type: Text
 identifiers:
